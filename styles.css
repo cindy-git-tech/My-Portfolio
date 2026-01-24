@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 05px 10px;
+    box-sizing: border-box;
+
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.navelements ul{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+
+}
+
+.navbutton button{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.navMe{
+    padding: 10px 20px;
+}
+.navMe button{
+    padding: 10px 20px;
+    gap: 20px;
+}
+.nav2{
+   display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    
+}
+.navworks{
+    padding: 10px 20px;
+}
+.navworks2{
+    display: flex;
+    justify-content: right;
+    padding-left: 10px;
+    padding-top: 5px;
+    gap: 20px;
+}
+.navApps{
+    display: flex;
+}
+.nav3{
+   display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px; 
+}
+.nav4{
+    justify-items: center;
+}
+.nav5{
+    display: flex;
+}
+.nav6{
+    display: flex;
+}
